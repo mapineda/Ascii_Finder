@@ -418,10 +418,16 @@ table {
   border-spacing: 0;
 }
 
+.scrollit {
+    overflow:scroll;
+    height:300px;
+}
+
 td,
 th {
   padding: 0;
 }
+
 
 .ac-container{
 	width: 600px;
