@@ -423,6 +423,11 @@ tbody {
 	overflow: scroll;
 }
 
+.scrollit {
+    overflow:scroll;
+    height:300px;
+}
+
 td,
 th {
   padding: 0;
@@ -432,6 +437,7 @@ th {
 tr {
    overflow: scroll;
 }
+
 
 .ac-container{
 	width: 600px;
