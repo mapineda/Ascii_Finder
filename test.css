@@ -416,11 +416,21 @@ optgroup {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  overflow: scroll;
+}
+
+tbody {
+	overflow: scroll;
 }
 
 td,
 th {
   padding: 0;
+  overflow: scroll;
+}
+
+tr {
+   overflow: scroll;
 }
 
 .ac-container{
